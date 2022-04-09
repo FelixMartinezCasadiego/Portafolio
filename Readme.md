@@ -1,6 +1,6 @@
 # Portfolio visualization
 
-### You can see my portafolio here: https://portafoliofelix.netlify.app/
+### You can see my portfolio here: https://portafoliofelix.netlify.app/
 
 ## Description
 

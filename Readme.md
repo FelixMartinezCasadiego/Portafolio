@@ -9,14 +9,17 @@ I used HTML, CSS and JavaScript.
 ## Screenshots
 
 ### Home
+
 [![Imagen1.png](https://i.postimg.cc/1t8vjBCD/Imagen1.png)](https://postimg.cc/bDj0Gxjv)
 
 ### Portfolio
-[![Imagen2.png](https://i.postimg.cc/BvVgHDSb/Imagen2.png)](https://postimg.cc/p9KztmnM)
+
+![](img/readme_portfolio.png)
 
 ### About
-[![Imagen3.png](https://i.postimg.cc/HkW4N3jj/Imagen3.png)](https://postimg.cc/hfwdzLLq)
+
+![](img/readme_about)
 
 ### Resume
-[![Imagen4.png](https://i.postimg.cc/8zyBgWr4/Imagen4.png)](https://postimg.cc/nXDQvX29)
 
+![](img/readme_resume)
